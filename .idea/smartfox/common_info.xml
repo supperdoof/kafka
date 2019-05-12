@@ -4,6 +4,6 @@
     <option name="branch" value="master" />
     <option name="gitUrl" value="git@github.com:supperdoof/kafka.git" />
     <option name="localBranch" value="master" />
-    <option name="revision" value="f6431de50d398fc657dc6b509a8ccdf9d49888b9" />
+    <option name="revision" value="32a3c95219ff53d3d9159ddf0b9b866eea4d57d0" />
   </component>
 </project>
